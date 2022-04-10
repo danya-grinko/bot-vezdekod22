@@ -249,7 +249,7 @@
 
             }
 
-            if ($user ['act'] == "mem:add") {
+            if ($user ['act'] == "meme:add") {
 
                 $media_id_vk = $attachments[0]['photo']['id'];
                 if (isset($attachments[0]['photo']['sizes'][9]['url'])) {
